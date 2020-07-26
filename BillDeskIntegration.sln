@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillDesk", "BillDesk\BillDesk.csproj", "{38AB437A-8900-45FE-BEFD-DB636B5FD9D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillDeskApi", "BillDeskApi\BillDeskApi.csproj", "{1A83D458-C680-48A2-8E07-0D11E880F772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38AB437A-8900-45FE-BEFD-DB636B5FD9D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AB437A-8900-45FE-BEFD-DB636B5FD9D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AB437A-8900-45FE-BEFD-DB636B5FD9D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AB437A-8900-45FE-BEFD-DB636B5FD9D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A83D458-C680-48A2-8E07-0D11E880F772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A83D458-C680-48A2-8E07-0D11E880F772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A83D458-C680-48A2-8E07-0D11E880F772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A83D458-C680-48A2-8E07-0D11E880F772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {013709BF-2A6F-49FA-99F1-D61B6C9BB1FF}
+	EndGlobalSection
+EndGlobal
